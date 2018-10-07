@@ -2,3 +2,10 @@ mkdir learngit
 cd learngit
 pwd#查看当前目录
 git init #创建版本库
++git init #创建版本库
++git log --oneline
++git status
++git diff
++dit add
++git reset --hard HEAD^
++git reset --hard 版本号
